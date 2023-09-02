@@ -18,9 +18,17 @@ footer{
     text-align: center;
 }
 
+button{
+    position: relative;
+    padding: 10px;
+}
+.other{
+    justify-content: center;
+    display: flex;
+}
 .main{
     flex: 1;
-    font-size: 25px;
+    font-size: 20px;
     background-color: rgb(49, 49, 68);
     color: rgb(186, 180, 170);
 }
@@ -45,4 +53,9 @@ header{
 #shabbhir{
     margin-left: 37%;
     width: 25%;
+}
+
+#one{
+    position: relative;
+    top: 5px;
 }
