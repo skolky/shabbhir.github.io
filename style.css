@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(49, 49, 68);
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-size: 9px;
+    padding: 8px;
+}
+
+#shabbhirFigure{
+    font-size: 10px;
+    text-align: center;
+}
+
+.main{
+    flex: 1;
+    font-size: 25px;
+    background-color: rgb(49, 49, 68);
+    color: rgb(186, 180, 170);
+}
+
+body{
+    margin: 0px;
+}
+p{
+    margin: 0px;
+}
+h1{
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+header{
+    text-align: center;
+    background: rgb(126, 36, 36);
+    color: rgb(225, 216, 216);
+}
+
+#shabbhir{
+    margin-left: 37%;
+    width: 25%;
+}
