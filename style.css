@@ -23,6 +23,7 @@ button{
     padding: 10px;
 }
 .other{
+    justify-items: center;
     justify-content: center;
     display: flex;
 }
@@ -58,4 +59,5 @@ header{
 #one{
     position: relative;
     top: 5px;
+    text-align: center;
 }
